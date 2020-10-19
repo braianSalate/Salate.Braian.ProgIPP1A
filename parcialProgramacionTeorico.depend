@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603111285 source:/Users/administador/Desktop/programacion1/parcialProgramacionTeorico/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
